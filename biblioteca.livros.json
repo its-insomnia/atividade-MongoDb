@@ -1,45 +1,36 @@
-[{
-  "_id": {
-    "$oid": "6af21e3daaa11dd538ae9864"
-  },
-  "título": "Tokyo Ghoul",
-  "autor": "Sui Ishida",
-  "anoDePublicação": 2016,
-  "generoLiterario": "seinen"
-},
-{
-  "_id": {
-    "$oid": "6af21e3daaa11dd538ae9865"
-  },
-  "título": "Heartstopper",
-  "autor": "Alice Oseman",
-  "anoDePublicação": 2018,
-  "generoLiterario": "romance"
-},
-{
-  "_id": {
-    "$oid": "6af21e3daaa11dd538ae9866"
-  },
-  "título": "Diario de um banana",
-  "autor": "Jeff Kinney",
-  "anoDePublicação": 2007,
-  "generoLiterario": "comedia"
-},
-{
-  "_id": {
-    "$oid": "6af21e3daaa11dd538ae9867"
-  },
-  "título": "Introdução à Linguagem SQL: Abordagem Prática para Iniciantes",
-  "autor": "Thomas Nield",
-  "anoDePublicação": 2016,
-  "generoLiterario": "Informática / Tecnologia da Informação"
-},
-{
-  "_id": {
-    "$oid": "6af21e3daaa11dd538ae9868"
-  },
-  "título": "heated rivalry",
-  "autor": "Rachel Reid",
-  "anoDePublicação": 2019,
-  "generoLiterario": "romance esportivo"
-}]
+[
+ {
+    "título":"Tokyo Ghoul",
+    "autor":"Sui Ishida",
+    "anoDePublicação":2016,
+    "generoLiterario":"seinen"
+    },
+    
+     {
+     "título":"Heartstopper",
+     "autor":"Alice Oseman",
+     "anoDePublicação":2018,
+     "generoLiterario":"romance"
+     },
+     {
+     "título":"Diario de um banana",
+     "autor":"Jeff Kinney",
+     "anoDePublicação":2007,
+     "generoLiterario":"comedia"
+     },
+    
+     {
+     "título":"Introdução à Linguagem SQL: Abordagem Prática para Iniciantes",
+     "autor":"Thomas Nield",
+     "anoDePublicação":2016,
+     "generoLiterario":"Informática / Tecnologia da Informação"
+    },
+     {
+     "título":"heated rivalry",
+     "autor":"Rachel Reid",
+      "anoDePublicação":2019,
+     "generoLiterario":"romance esportivo"
+     }
+    ]
+    
+    
