@@ -1,50 +1,37 @@
-[{
-  "_id": {
-    "$oid": "6af2272baaa11dd538ae9878"
-  },
-  "nome": "Omori",
-  "desenvolvedora": "Omocat LLC",
-  "plataforma": "PC",
-  "genero": "Indie",
-  "preco": 19.99
-},
-{
-  "_id": {
-    "$oid": "6af2272baaa11dd538ae9879"
-  },
-  "nome": "Signalis",
-  "desenvolvedora": "rose-engine",
-  "plataforma": "PC",
-  "genero": "Terror",
-  "preco": 73.99
-},
-{
-  "_id": {
-    "$oid": "6af2272baaa11dd538ae987a"
-  },
-  "nome": "Chained Echoes",
-  "desenvolvedora": "Matthias Linda",
-  "plataforma": "Nintendo",
-  "genero": "RPG",
-  "preco": 79.99
-},
-{
-  "_id": {
-    "$oid": "6af2272baaa11dd538ae987b"
-  },
-  "nome": "Inscryption",
-  "desenvolvedora": "Daniel Mullins Games",
-  "plataforma": "PC",
-  "genero": "Indie",
-  "preco": 59.99
-},
-{
-  "_id": {
-    "$oid": "6af2272baaa11dd538ae987c"
-  },
-  "nome": "Pentiment",
-  "desenvolvedora": "Obsidian Entertainment",
-  "plataforma": "Xbox",
-  "genero": "Aventura",
-  "preco": 99
-}]
+[
+    {
+      "nome": "Omori",
+      "desenvolvedora": "Omocat LLC",
+      "plataforma": "PC",
+      "genero": "Indie",
+      "preco": 19.99
+    },
+    {
+      "nome": "Signalis",
+      "desenvolvedora": "rose-engine",
+      "plataforma": "PC",
+      "genero": "Terror",
+      "preco": 73.99
+    },
+    {
+      "nome": "Chained Echoes",
+      "desenvolvedora": "Matthias Linda",
+      "plataforma": "Nintendo",
+      "genero": "RPG",
+      "preco": 79.99
+    },
+    {
+      "nome": "Inscryption",
+      "desenvolvedora": "Daniel Mullins Games",
+      "plataforma": "PC",
+      "genero": "Indie",
+      "preco": 59.99
+    },
+    {
+      "nome": "Pentiment",
+      "desenvolvedora": "Obsidian Entertainment",
+      "plataforma": "Xbox",
+      "genero": "Aventura",
+      "preco": 99.00
+    }
+  ]
