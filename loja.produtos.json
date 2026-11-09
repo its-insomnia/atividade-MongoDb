@@ -1,45 +1,32 @@
-[{
-  "_id": {
-    "$oid": "6af22326aaa11dd538ae9870"
-  },
-  "nomeProduto": "Teclado 60%",
-  "categoria": "Periféricos",
-  "preco": 140,
-  "quantidadeEstoque": 67
-},
-{
-  "_id": {
-    "$oid": "6af22326aaa11dd538ae9871"
-  },
-  "nomeProduto": "Mouse AttackShark",
-  "categoria": "Periféricos",
-  "preco": 120,
-  "quantidadeEstoque": 42
-},
-{
-  "_id": {
-    "$oid": "6af22326aaa11dd538ae9872"
-  },
-  "nomeProduto": "Mousepad",
-  "categoria": "Acessórios",
-  "preco": 10,
-  "quantidadeEstoque": 2
-},
-{
-  "_id": {
-    "$oid": "6af22326aaa11dd538ae9873"
-  },
-  "nomeProduto": "Headset Samsung",
-  "categoria": "Áudio",
-  "preco": 10,
-  "quantidadeEstoque": 10
-},
-{
-  "_id": {
-    "$oid": "6af22326aaa11dd538ae9874"
-  },
-  "nomeProduto": "Pendrive",
-  "categoria": "Armazenamento",
-  "preco": 30,
-  "quantidadeEstoque": 14
-}]
+[
+    {
+      "nomeProduto": "Teclado 60%",
+      "categoria": "Periféricos",
+      "preco": 140.00,
+      "quantidadeEstoque": 67
+    },
+    {
+      "nomeProduto": "Mouse AttackShark",
+      "categoria": "Periféricos",
+      "preco": 120.00,
+      "quantidadeEstoque": 42
+    },
+    {
+      "nomeProduto": "Mousepad",
+      "categoria": "Acessórios",
+      "preco": 10.00,
+      "quantidadeEstoque": 2
+    },
+    {
+      "nomeProduto": "Headset Samsung",
+      "categoria": "Áudio",
+      "preco": 10.00,
+      "quantidadeEstoque": 10
+    },
+    {
+      "nomeProduto": "Pendrive",
+      "categoria": "Armazenamento",
+      "preco": 30.00,
+      "quantidadeEstoque": 14
+    }
+  ]
